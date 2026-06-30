@@ -48,7 +48,8 @@ To train the MATE framework from scratch using the default configuration:
 Bash
 python code/train.py --batch_size 32 --epochs 100 --ablation_mode both
 
-
+dataset 
+https://drive.google.com/file/d/1eCU7mGg_txOT5Vb5_4o5cCnUhKwvh8Dm/view?usp=sharing
 
 
 
